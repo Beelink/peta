@@ -1,0 +1,11 @@
+D:\Projects\peta\peta\bin\Debug\peta.exe.config
+D:\Projects\peta\peta\bin\Debug\peta.exe
+D:\Projects\peta\peta\bin\Debug\peta.pdb
+D:\Projects\peta\peta\obj\Debug\peta.csprojAssemblyReference.cache
+D:\Projects\peta\peta\obj\Debug\peta.MainForm.resources
+D:\Projects\peta\peta\obj\Debug\peta.Properties.Resources.resources
+D:\Projects\peta\peta\obj\Debug\peta.ZoneForm.resources
+D:\Projects\peta\peta\obj\Debug\peta.csproj.GenerateResource.cache
+D:\Projects\peta\peta\obj\Debug\peta.exe
+D:\Projects\peta\peta\obj\Debug\peta.pdb
+D:\Projects\peta\peta\obj\Debug\peta.csproj.CopyComplete
